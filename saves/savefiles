@@ -1,0 +1,6 @@
+LOAD = save.xml
+0 DEFAULT = default.xml
+1 = PRESET A
+2 = PRESET B
+3 = Map creator custom.xml
+4 = save.xml
